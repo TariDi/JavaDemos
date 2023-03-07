@@ -1,0 +1,5 @@
+20 trt 646 ygy 12/08/1988 iii jjj 4 1000
+21 rtr 656 yry 12/08/1987 iii kkk 5 2000
+22 trr 676 yty 12/08/1984 iii kkk 10 3500
+23 rrt 686 yuy 12/08/1991 yyy kkk 1.5 1600
+20 trt 646 ygy 12/08/1988 iii jjj 4 1000

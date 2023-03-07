@@ -1,0 +1,5 @@
+01 ttt 666 yyy 09/08/1988 Sales Manager 68000 1000
+02 fff 636 yky 09/08/1984 Marketing Manager 50000 500
+03 www 616 rey 19/08/1985 Accounting Manager 32000 1500
+04 qqq 606 hey 29/07/1980 Sales SalesRep 26000 600
+01 ttt 666 yyy 09/08/1988 Sales Manager 68000 1000
